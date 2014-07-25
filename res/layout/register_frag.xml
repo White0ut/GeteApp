@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:font="http://schemas.android.com/apk/res/edu.wmich.geteapp"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical" >
 
-    <edu.wmich.gete.widget.RobotoTextView
+    <TextView
         android:id="@+id/userNameText"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
@@ -13,8 +12,7 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentTop="true"
         android:text="@string/user_name_text"
-        android:textSize="30sp"
-        font:typeface="Roboto-Black.ttf" />
+        android:textSize="30sp" />
 
     <EditText
         android:id="@+id/user_name"
@@ -28,15 +26,14 @@
         <requestFocus />
     </EditText>
 
-    <edu.wmich.gete.widget.RobotoTextView
+    <TextView
         android:id="@+id/passwordText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
         android:layout_below="@+id/user_name"
         android:text="@string/password_text"
-        android:textSize="30sp"
-        font:typeface="Roboto-Black.ttf" />
+        android:textSize="30sp" />
 
     <EditText
         android:id="@+id/password_one"
@@ -47,15 +44,14 @@
         android:ems="10"
         android:inputType="textPassword" />
 
-    <edu.wmich.gete.widget.RobotoTextView
+    <TextView
         android:id="@+id/passwordTwoText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
         android:layout_below="@+id/password_one"
         android:text="@string/password_two_text"
-        android:textSize="30sp"
-        font:typeface="Roboto-Black.ttf" />
+        android:textSize="30sp" />
 
     <EditText
         android:id="@+id/password_two"

@@ -16,6 +16,13 @@ local.properties
 .settings/
 .loadpath
 
+# Android Java
+gen/
+
+#gradle
+.gradle/
+gradlew*
+
 # External tool builders
 .externalToolBuilders/
 
