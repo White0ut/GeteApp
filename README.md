@@ -1,6 +1,8 @@
 #GETE
 ==========
 
+![Screenshot](/screenshots/device_screenshot.png "Screenshot with Nav Drawer")
+
 ##Current State
 
 Currently, this is the selected model and navigation layout specified by GETE.
