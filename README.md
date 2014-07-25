@@ -18,5 +18,4 @@ Has numerous tools
 
 - Profiling
 - News Feed
-- Notification Handling
-- Sharing of photos 
+- Notification Handling 
