@@ -1,7 +1,7 @@
 #GETE
 ==========
 
-/centerline{/includegraphics[height=2in]{/screenshots/device_screenshot.png}}
+![Screenshot](/screenshots/device_screenshot.png)
 
 ##Current State
 
