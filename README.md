@@ -1,7 +1,7 @@
 #GETE
 ==========
 
-![Screenshot](/screenshots/device_screenshot.png "Screenshot with Nav Drawer")
+![Screenshot](/screenshots/device_screenshot.png[height=2in] "Screenshot with Nav Drawer")
 
 ##Current State
 
