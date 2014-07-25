@@ -18,6 +18,10 @@ local.properties
 
 # Android Java
 gen/
+.idea
+*.iml
+proguard-project.txt
+project.properties
 
 #gradle
 .gradle/
